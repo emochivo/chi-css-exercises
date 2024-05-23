@@ -10,3 +10,9 @@
 .a-class.cooler {
     font-size: 24px;
 }
+
+#one-id {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #0000ff;
+}
